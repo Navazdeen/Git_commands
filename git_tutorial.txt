@@ -2,3 +2,4 @@ This is the new file, using this file to learning git.
 
 Git is a version control software.
 Git command line tools help us to edit our projects on our own laptops.
+Git software very useful in collaborating with the workers and makes works easier to manage.

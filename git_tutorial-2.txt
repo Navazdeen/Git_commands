@@ -1,3 +1,6 @@
-This is the new file, using this file to learning git.
+git basic commands
 
-Git is a version control software.
+git add [file_name] # to add the files in staging
+git commit # to stage to files
+git rm <file_name> # to remove the staged the file
+git push/pull # to push/pull the files from/to git remote branches
